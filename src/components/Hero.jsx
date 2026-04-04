@@ -30,7 +30,7 @@ const Hero = ({ scrollToSection }) => {
         <div className="hero-aside">
           <div className="profile-card">
             <img
-              src="/profile.jpg"
+              src="Photo new.png"
               alt="Ganesh Dongare"
               className="profile-photo"
               onError={(e) => {
@@ -42,12 +42,6 @@ const Hero = ({ scrollToSection }) => {
               <h3>Ganesh Dongare</h3>
               <p>BCA Graduate</p>
               <p>Open to software developer roles</p>
-            </div>
-          </div>
-          <div className="hero-illustration">
-            <div className="hero-illustration-content">
-              <h3>AI-Focused</h3>
-              <p>Modern software craft</p>
             </div>
           </div>
         </div>
